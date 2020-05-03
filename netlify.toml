@@ -3,3 +3,11 @@
 from = "/*"
 to = "/index.html"
 status = 200
+
+# Ensure site builds using proper hugo version
+[context.production.environment]
+HUGO_VERSION = "0.60.1"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.60.1"
+
