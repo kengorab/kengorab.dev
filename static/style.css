@@ -1,0 +1,11 @@
+.logo__cursor {
+  background: none; // Hide blinking cursor
+}
+
+.caption {
+  display: flex;
+  justify-content: center;
+  font-size: 0.8125rem;
+  font-style: italic;
+  margin-top: -16px;
+}

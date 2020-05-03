@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Ken Gorab"
+theme = "hello-friend"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[languages]
+
+[languages.en]
+title = "Ken Gorab"
+subtitle = ""
+keywords = "senior software engineer nyc programming java javascript typescript react golang ruby rust"
+copyright = ""
+dateFormatSingle = "Jan 2, 2006"
+dateFormatList = "Jan 2, 2006"
+
+[languages.en.params.logo]
+logoText = "~ken.gorab"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/me"
+
+[[languages.en.menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/"
+
