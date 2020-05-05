@@ -1,10 +1,12 @@
 ---
-title: "Let's Write Redux"
+title: "Let's Write Redux!"
 date: 2018-03-05T20:07:56-05:00
 tags: [redux, javascript, diy]
 ---
 
-_This is a copy of a post, [originally written on Medium](https://medium.com/@ken.gorab/lets-write-redux-9f6cb511b3e4). I've since rehosted it on my own site._
+_This is a copy of a post, [originally written on Medium](https://medium.com/@ken.gorab/lets-write-redux-9f6cb511b3e4). I've since rehosted it here._
+
+---
 
 As a corollary to the famous sentiment “the best way to prove mastery over a topic is to be able to teach it to somebody else”, I’d like to add “the best way to prove mastery over a piece of software it to implement it yourself.” I don’t know whether or not that’s true, but I do often enjoy building my own versions of the tools/libraries that I use. Not in any serious production environment or anything, just for the sake of learning how they work.
 
