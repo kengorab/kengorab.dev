@@ -735,5 +735,5 @@ Okay, this was a _lot_. But, we’re left with a really satisfying result, and a
 
 However, there is much _much_ more left to do. We still need to handle the case where there are multiple beans of the same type, we need to handle the `@Qualifier` annotation, constructor-based dependency injection (as opposed to field-based dependency injection), `@PostConstruct` methods, `@Configuration` classes, methods annotated with `@Bean`, etc. Trust me when I say that, although there is a lot left to do, there are not a lot of changes we need to make in order to make it all happen. In fact, we’ve taken care of most of the difficult part — building and resolving the dependency graph. Really, all the rest just falls into place around that.
 
-So, thank you for taking the time to read this, and I hope you’ve learned something! Continue on to Part 2 to build out support for `@Configuration`, `@Bean`, and `@Qualifier` annotations.
+So, thank you for taking the time to read this, and I hope you’ve learned something! Continue on to [Part 2](/posts/2018/03/lets-write-spring-2) to build out support for `@Configuration`, `@Bean`, and `@Qualifier` annotations.
 
