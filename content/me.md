@@ -7,7 +7,7 @@ Hey, I'm Ken! Nice to meet you 👋
 I'm a Senior Software Engineer working in NYC who's passionate about programming, motivated by curiosity, and who wishes he were better at guitar.
 
 <div style="display: flex; flex-direction: column;">
-    <img style="margin: 0 auto;" src="/me.jpg">
+    <img style="margin: 0 auto;" src="/img/me.jpg">
     <em style="margin: 0 auto; font-size: 0.8125rem">On my honeymoon in France, about to dig into a wonderful crepe</em>
 </div>
 
