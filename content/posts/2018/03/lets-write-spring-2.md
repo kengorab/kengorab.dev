@@ -1,7 +1,6 @@
 ---
 title: "Let's Write Spring! (Part 2)"
 date: 2018-03-18T20:07:56-05:00
-draft: true
 tags: [java, spring, diy]
 ---
 
