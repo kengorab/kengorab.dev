@@ -8,7 +8,7 @@ I'm a Senior Software Engineer based in NYC who's passionate about programming, 
 spends a bit too much money on _Magic: The Gathering_.
 
 <div style="display: flex; flex-direction: column;">
-    <img style="margin: 0 auto;" src="/me.jpg">
+    <img style="margin: 0 auto;" src="/img/me.jpg">
     <em style="margin: 0 auto; font-size: 0.8125rem">On my honeymoon in France, about to dig into a wonderful crepe</em>
 </div>
 
