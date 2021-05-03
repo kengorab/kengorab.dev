@@ -22,11 +22,24 @@ logoText = "~ken.gorab"
 [languages.en.menu]
 [[languages.en.menu.main]]
 identifier = "about"
+weight = 1
 name = "About"
 url = "/me"
 
 [[languages.en.menu.main]]
 identifier = "posts"
+weight = 2
 name = "Posts"
 url = "/"
 
+[[languages.en.menu.main]]
+identifier = "github"
+weight = 3
+name = "Github"
+url = "https://github.com/kengorab"
+
+[[languages.en.menu.main]]
+identifier = "resume"
+weight = 4
+name = "Resume"
+url = "/resume.pdf"

@@ -4,14 +4,22 @@ title: "About Me"
 
 Hey, I'm Ken! Nice to meet you 👋
 
-I'm a Senior Software Engineer working in NYC who's passionate about programming, motivated by curiosity, and who wishes he were better at guitar.
+I'm a Senior Software Engineer based in NYC who's passionate about programming, motivated by curiosity, and probably
+spends a bit too much money on _Magic: The Gathering_.
 
 <div style="display: flex; flex-direction: column;">
     <img style="margin: 0 auto;" src="/me.jpg">
     <em style="margin: 0 auto; font-size: 0.8125rem">On my honeymoon in France, about to dig into a wonderful crepe</em>
 </div>
 
-By day, I typically write in Ruby, Go, and Typescript (using React); by night, I like to work on a variety of projects, most recently my programming language [Abra](https://abra.kenrg.co/), which is written in Rust. I like to write blog posts about a variety of topics that interest me, and I kind of use them as excuses to try and reimplement some tools/libraries that I use and enjoy.
+By day, I typically write in Ruby, Go, and Typescript (using React), but I "grew up" on Java and Scala. By night, I like
+to work on a variety of projects, most passionately my programming language [Abra](https://abra.kenrg.co/), which is
+written in Rust. I also enjoy digging into tools and libraries that I use on a daily basis, and love trying to
+reimplement them myself from scratch. Occasionally (though not as often as I'd like), I try to write blog posts about
+them. Check out [my github](https://github.com/kengorab)!
 
-I also enjoy reading fantasy and sci-fi, and I'm eagerly awaiting the next book in _The Stormlight Archive_. I've been on book 11 of _The Wheel of Time_ for the past couple years, one day I'll finish it... Also, _The Expanse_ is one of my favorite sci-fi series in a while, check it out if you're interested (read the books before you try the show). Also also, you should read [_The Broken Earth Trilogy_ by N.K. Jemisin](https://www.goodreads.com/series/112296-the-broken-earth), it's an excellent fantasy series. You can check out my [Goodreads](https://www.goodreads.com/user/show/66527592-ken-gorab) profile if you're interested. 
+I also really enjoy reading fantasy and sci-fi; top 3 series at the moment are:
 
+1. The Stormlight Archive
+2. The Expanse (the show is great, but the books are better)
+3. The Broken Earth Trilogy
